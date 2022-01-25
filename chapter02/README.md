@@ -8,6 +8,8 @@
   code02_01_a03_01.rs : for文による実装  
   code02_01_a03_02.rs : iter(sum)による実装  
   code02_01_a03_03.rs : iter(fold)による実装
+* コード2.1.4  
+  <span style="color: red; ">未実装</span>
 * コード2.2.1  
   code02_02_a01.rs
 * コード2.2.2  
