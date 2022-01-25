@@ -18,3 +18,11 @@
   code02_04_a01.rs : for文による実装  
   code02_04_a02.rs : iter(sum)による実装  
   code02_04_a03.rs : iter(fold)による実装
+* コード2.4.1  
+  code02_02_a01.rs
+* コード2.4.2  
+  code02_02_a02.rs
+* コード2.4.3  
+  code02_02_a01.rs
+* 本文 2.4.6 項(問題ID:009)  
+  code02_02_a02.rs
