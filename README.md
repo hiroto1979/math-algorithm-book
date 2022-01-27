@@ -4,3 +4,7 @@
 
 * Amazon : [https://www.amazon.co.jp/dp/4297125218/](https://www.amazon.co.jp/dp/4297125218/)
 * Original Repo : [https://github.com/E869120/math-algorithm-book](https://github.com/E869120/math-algorithm-book)
+
+AtCoderにおける自動採点システムは以下URLにある。
+
+* [https://atcoder.jp/contests/math-and-algorithm](https://atcoder.jp/contests/math-and-algorithm)
